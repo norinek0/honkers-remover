@@ -1,4 +1,4 @@
-# honkers remover
+# star rail honkers launcher remover
 
 a simple and effective script to **completely remove honkers-launcher** under Linux, especially when it's being stubborn or unresponsive — specifically tailored for users of the **fish**.
 
